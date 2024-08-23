@@ -5,11 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const map = {
         'フェイ': 'fei',
-        '悲しみ': 'sorrow',
-        'アーチ': 'arch',
-        'ホズ': 'hoz',
-        'ジェイデン': 'jayden',
-        'シェフ': 'rtx',
+        'ダミ': 'dami',
+        'クリス': 'chris',
     };
 
     function createenglishnameelement(name) {
