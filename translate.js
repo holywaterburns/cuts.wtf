@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'クリス': 'chris',
         'ダミ': 'dami',
         '出血する': 'bleed',
+        'ゲルタ': 'grtha',
     };
 
     function createenglishnameelement(name) {
