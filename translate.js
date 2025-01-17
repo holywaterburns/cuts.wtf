@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const map = {
         'フェイ': 'fei',
         'クリス': 'chris',
-        '出血する': 'bleed',
         'ゲルタ': 'godololo',
     };
 
