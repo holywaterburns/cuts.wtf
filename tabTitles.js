@@ -1,7 +1,7 @@
 const tabTitles = [
-    "@#98!pQ&*a",
-    "$5^&K!p@9B",
-    "!T7@#f2$%G",
+    "godololo",
+    "fei",
+    "chris",
     "*&@X3$P!Q#",
     "6@9!#y*%J$",
 ];
