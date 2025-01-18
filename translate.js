@@ -4,9 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     const map = {
-        'フェイ': 'fei',
-        'クリス': 'chris',
-        'ゴドロロ': 'godololo',
+        'フェイ': 'godololo',
+        'クリス': 'avery u_u',
     };
 
     function createenglishnameelement(name) {
