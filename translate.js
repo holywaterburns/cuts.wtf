@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'フェイ': 'godololo',
         'クリス': 'avery u_u',
         'ミゲル': 'miguel xx',
+        'クリークXO': 'creek xo',
     };
 
     function createenglishnameelement(name) {
