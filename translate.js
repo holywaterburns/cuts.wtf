@@ -8,6 +8,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'クリス': 'avery u_u',
         'ミゲル': 'miguel xx',
         'クリークXO': 'creek xo',
+        '副木': 'splint',
+        'ジョシュ': 'terq',
+        'スラム': 'slam T_T',
+        '世論調査': 'poll',
     };
 
     function createenglishnameelement(name) {
