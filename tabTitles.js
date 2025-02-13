@@ -1,9 +1,9 @@
 const tabTitles = [
-    "godololo",
-    "fei",
-    "chris",
-    "*&@X3$P!Q#",
-    "6@9!#y*%J$",
+    "trap",
+    "finesse",
+    "cult",
+    "runs this bitch",
+    "@pr0pblood",
 ];
 
 let index = 0;
