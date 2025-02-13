@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'スラム': 'slam T_T',
         '世論調査': 'poll',
         'MUSIC: Propblood & Jayden & Splint': 'MUSIC: Propblood & Jayden & Splint',
+        'SONG: Frankenstein - trap finesse cult': 'SONG: Frankenstein - trap finesse cult',
     };
 
     function createenglishnameelement(name) {
