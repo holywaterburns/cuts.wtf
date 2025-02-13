@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'ジョシュ': 'terq',
         'スラム': 'slam T_T',
         '世論調査': 'poll',
+        'MUSIC: Propblood & Jayden & Splint': 'MUSIC: Propblood & Jayden & Splint',
     };
 
     function createenglishnameelement(name) {
