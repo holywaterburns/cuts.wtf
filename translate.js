@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     const map = {
-        'フェイ': 'godololo',
+        'フェイ': 'cliky',
         'クリス': 'avery u_u',
         'ミゲル': 'miguel xx',
         'クリークXO': 'creek xo',
